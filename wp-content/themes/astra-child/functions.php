@@ -17,5 +17,6 @@ add_action( 'wp_enqueue_scripts', 'my_child_theme_enqueue_styles' );
 
 
 $a =123;
+$b = 234;
 
 ?>
