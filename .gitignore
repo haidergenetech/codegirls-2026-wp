@@ -52,3 +52,4 @@ wp-config.php
 /wp-content/upgrade-temp-backup
 /wp-content/upgrade
 /wp-content/wflogs
+/wp-content/plugins
